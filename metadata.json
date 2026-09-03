@@ -1,0 +1,6 @@
+{
+  "name": "BSB Braga CENTCOM - Videowall Operacional",
+  "description": "Painel de Videowall do Centro de Comunicações do Batalhão Sapadores Bombeiros de Braga com teatros de operações, canais rádio, viaturas com ícones de tipologia, agendamentos, observações e IPMA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
